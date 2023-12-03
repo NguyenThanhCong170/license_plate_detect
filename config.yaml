@@ -1,0 +1,6 @@
+path: C:\Users\phamq\OneDrive\Desktop\New folder\Biensoxe
+train: images
+val: images
+
+names:
+  0: biensoxe
